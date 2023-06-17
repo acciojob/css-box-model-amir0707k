@@ -1,2 +1,12 @@
 
 /* Your CSS Code here. */
+#middle{
+	border:dashed;
+	background-color:lightblue;
+	width:300px;
+	padding:50px;
+}
+#main{
+	border:15px solid blue;
+	margin:20px;
+}
